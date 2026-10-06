@@ -246,8 +246,3 @@ Mateus Vinícius
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:07111f,100:050505&height=120&section=footer"/>
 
 </div>
-```
-
-Pronto. Agora seu README não depende mais desses **dois serviços pausados**, e a Snake continua funcionando. 🐍⚡
-
-Depois, se esses serviços voltarem ou encontrarmos alternativas melhores, dá para recolocar gráficos sem bagunçar o restante.
