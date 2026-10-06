@@ -225,7 +225,7 @@ Mateus Vinícius
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MateusVdev/MateusVdev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/MateusVdev/MateusVdev/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
