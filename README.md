@@ -201,26 +201,6 @@ Mateus Vinícius
 
 ---
 
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusVdev&bg_color=050505&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MateusVdev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 # 🐍 Contribution Matrix
 
 <div align="center">
@@ -266,3 +246,8 @@ Mateus Vinícius
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:07111f,100:050505&height=120&section=footer"/>
 
 </div>
+```
+
+Pronto. Agora seu README não depende mais desses **dois serviços pausados**, e a Snake continua funcionando. 🐍⚡
+
+Depois, se esses serviços voltarem ou encontrarmos alternativas melhores, dá para recolocar gráficos sem bagunçar o restante.
